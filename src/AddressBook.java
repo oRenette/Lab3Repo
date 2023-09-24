@@ -52,6 +52,6 @@ public class AddressBook {
         addressBook.removeBuddy(buddy);
         //Does this need to be committed or pushed?
         //This comment was made on GitHub
-        //THis comment was added to the Branch
+        //THis comment was added to the Branch.
     }
 }
